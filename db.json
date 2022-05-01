@@ -1,0 +1,183 @@
+{
+  "ingredientes": {
+    "recheiosSalgados": [
+      {
+        "id": 1,
+        "tipo": "Carne Moída"
+      },
+      {
+        "id": 2,
+        "tipo": "Margherita"
+      }
+    ],
+    "recheiosDoces": [
+      {
+        "id": 1,
+        "tipo": "Maçã e Banana"
+      },
+      {
+        "id": 2,
+        "tipo": "Nutella com Morango"
+      }
+    ],
+    "massas": [
+      {
+        "id": 1,
+        "tipo": "Massa Tradicional"
+      },
+      {
+        "id": 2,
+        "tipo": "Massa de Brocólis"
+      }
+    ]
+  },
+  "pizzas": [
+    {
+      "id": 1,
+      "tipo": "Pizza de Calabresa",
+      "preco": 35.9,
+      "src": "/img/calabresa.png",
+      "ingredientes": [
+        "Queijo",
+        "Molho de tomate",
+        "Calabresa",
+        "Cebola",
+        "Tomate",
+        "Azeite",
+        "Orégano"
+      ]
+    },
+    {
+      "id": 2,
+      "tipo": "Pizza a Portuguesa",
+      "preco": 39.9,
+      "src": "/img/portuguesa.jpg",
+      "ingredientes": [
+        "Queijo",
+        "Molho de tomate",
+        "Ovo Cozido",
+        "Presunto Cozido",
+        "Ervilha",
+        "Cebola",
+        "Tomate",
+        "Azeite"
+      ]
+    },
+    {
+      "id": 3,
+      "tipo": "Pizza de Quatro Queijos",
+      "preco": 31,
+      "src": "/img/quatro-queijos.png",
+      "ingredientes": [
+        "Mussarela",
+        "Gorgonzola",
+        "Parmesão",
+        "Catupiry"
+      ]
+    }
+  ],
+  "bebidas": {
+    "Suco": [
+      {
+        "id": 1,
+        "tipo": "Suco de Laranja",
+        "preco": 9.5,
+        "src": "/img/laranja.jpg"
+
+      },
+      {
+        "id": 2,
+        "tipo": "Suco de Maracujá",
+        "preco": 10.9,
+        "src": "/img/maracuja.jpg"
+
+      }
+    ],
+    "refrigerantes": [
+      {
+        "id": 1,
+        "tipo": "Coca-Cola",
+        "preco": 5.5,
+        "src": "/img/coca-cola.jpg"
+
+      },
+      {
+        "id": 2,
+        "tipo": "Fanta Uva",
+        "preco": 4.9,
+        "src": "/img/fanta-uva.jpg"
+
+      }
+    ]
+  },
+  "pedidos": [
+    
+  ],
+  "destaques": [
+    {
+      "id": 1,
+      "tipo": "Calabresa",
+      "preco": 35.9,
+      "src": "/img/calabresa.png",
+      "ingredientes": [
+        "Queijo",
+        "Molho de tomate",
+        "Calabresa",
+        "Cebola",
+        "Tomate",
+        "Azeite",
+        "Orégano"
+      ]
+    },
+    {
+      "id": 2,
+      "tipo": "Portuguesa",
+      "preco": 39.9,
+      "src": "/img/portuguesa.jpg",
+      "ingredientes": [
+        "Queijo",
+        "Molho de tomate",
+        "Ovo Cozido",
+        "Presunto Cozido",
+        "Ervilha",
+        "Cebola",
+        "Tomate",
+        "Azeite"
+      ]
+    },
+    {
+      "id": 3,
+      "tipo": "Quatro Queijos",
+      "preco": 31,
+      "src": "/img/quatro-queijos.png",
+      "ingredientes": [
+        "Mussarela",
+        "Gorgonzola",
+        "Parmesão",
+        "Catupiry"
+      ]
+    },
+    {
+      "id": 1,
+      "tipo": "Calabresa",
+      "preco": 35.9,
+      "src": "/img/calabresa.png",
+      "ingredientes": [
+        "Queijo",
+        "Molho de tomate",
+        "Calabresa",
+        "Cebola",
+        "Tomate",
+        "Azeite",
+        "Orégano"
+      ]
+    }
+  ],
+  "funcionarios":[
+    {
+      "id": 1,
+      "nome": "joao",
+      "senha": "a155sd"
+    }
+  ]
+}
